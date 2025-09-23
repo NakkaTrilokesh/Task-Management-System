@@ -2,7 +2,8 @@
   "name": "task-manager-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NakkaTrilokesh.github.io/ Task-Management-System-Frontend",
+"homepage": "https://NakkaTrilokesh.github.io/Task-Management-System-Frontend",
+
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
     "@material-tailwind/react": "^2.1.9",
